@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 fffff
 i can
+=======
+fffff
+>>>>>>> master
